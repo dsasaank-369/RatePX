@@ -218,7 +218,7 @@ header nav ul li a.active {
   font-size: 20px;
 }
 
-.features {
+#features {
   background-color: black;
 }
 
@@ -260,13 +260,13 @@ header nav ul li a.active {
   border-radius: 10px;
 }
 
-.global {
+#global {
   padding-top: 50px;
   padding-bottom: 240px;
   background-image: url(earth.jpg);
 }
 
-.global > h1 {
+#global > h1 {
   text-align: center;
   color: white;
   margin-bottom: 80px;
@@ -283,7 +283,7 @@ header nav ul li a.active {
   margin: 15px;
 }
 
-.global button {
+#global button {
   font-size: 20px !important;
   width: 180px !important;
   position: relative;
@@ -474,7 +474,7 @@ header nav ul li a.active {
     display: grid !important;
     margin: 0px;
   }
-  .global button {
+  #global button {
     left: 25%;
   }
   #news h1 {
