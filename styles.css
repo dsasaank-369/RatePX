@@ -450,7 +450,7 @@ header nav ul li a.active {
   .mainImg button {
     position: absolute;
     left: 27%;
-    margin-top: 410px;
+    margin-top: 440px;
     width: 150px;
     font-size: 15px !important;
   }
@@ -472,6 +472,7 @@ header nav ul li a.active {
   .companies li {
     text-align: center;
     display: grid !important;
+    font-family: 'Roboto', sans-serif;
     margin: 0px;
   }
   #global button {
