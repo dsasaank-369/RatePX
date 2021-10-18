@@ -472,7 +472,7 @@ header nav ul li a.active {
   .companies li {
     text-align: center;
     display: grid !important;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif !important;
     margin: 0px;
   }
   #global button {
